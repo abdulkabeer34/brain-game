@@ -1,0 +1,1 @@
+export  { setRandomImages } from "./RandomDataGenerator";
